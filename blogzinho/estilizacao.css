@@ -5,9 +5,12 @@ padding:0;
 
 body {
     background-color: #555;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.branco {
+    color:#a88567;
+}
 .inicio {
     background-color: #ff8;
     padding: 15px;
@@ -16,6 +19,27 @@ body {
 
 .menu, 
 .topo {
-    padding: 15px;
+    padding: 20px;
      
+}
+
+.inicio {
+    padding:30px;
+}
+
+a, a:visited {
+    color:#fff;
+    text-decoration: none;
+    padding: 8px 20px;
+}
+
+a:hover {
+    background-color:#fff;
+    color:#684514;
+}
+
+.tudinho {
+    background-color: #dfdcdc;
+    width: 920px;
+    margin: 0 auto;
 }
