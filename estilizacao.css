@@ -50,22 +50,23 @@ a:hover {
 
 .tudinho {
     background-color: #dfdcdc;
-    width: 920px;
-    margin: 0 auto;
-    padding: 20px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    padding: 0%;
 }
 
 .conteudo-central {
-    width: 660px;
+    width: 78%;
     background-color: #fff;
     float: left;
     align-items: center;
 }
 
 .conteudo-central1 {
-    padding: 20px;
+    padding: 70px;
 
 }
+
 
 .datacentral {
     font-size: 0.8em;
@@ -79,8 +80,8 @@ a:hover {
 }
 
 .fotocentral {
-    width: 60%;
-    height: 60%;
+    width: 40%;
+    height: 10%;
 }
 
 .titulo {
