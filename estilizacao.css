@@ -22,6 +22,10 @@ body {
     text-align: center;
 }
 
+a {
+    text-decoration: 
+}
+
 .inicio {
     padding: 15px;
     font-size:30px;
@@ -37,13 +41,14 @@ body {
     padding:30px;
 }
 
-a, a:visited {
+.menu a,
+.menu a:visited {
     color:#fff;
     text-decoration: none;
     padding: 8px 20px;
 }
 
-a:hover {
+.menu a:hover {
     background-color:#fff;
     color:#684514;
 }
@@ -88,4 +93,9 @@ a:hover {
     text-align: left;
     margin-bottom:1%;
     font-size: 30px;
+}
+
+.textos {
+    width: 58%;
+    float: right;
 }
